@@ -12,7 +12,7 @@ numero1 = parseFloat(prompt("Digite o primeiro número"));
 numero2 = parseFloat(prompt("Digite o segundo número"));
 
 soma = numero1 + numero2;
-console.log("O resultado da Soma é" + soma)
+console.log("O resultado da Soma é " + soma)
 break;
 
 case 2:
@@ -37,7 +37,8 @@ case 4:
     if (numero2 === 0) {
       console.log("Erro: não é possível dividir por zero");
     } else {
-      console.log("O resultado da divisão é " + (numero1 / numero2));
+    divisao = numero1 / numero2;
+      console.log("O resultado da divisão é " + divisao);
     }
     break;
 
