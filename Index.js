@@ -12,7 +12,7 @@ numero1 = parseFloat(prompt("Digite o primeiro número"));
 numero2 = parseFloat(prompt("Digite o segundo número"));
 
 soma = numero1 + numero2;
-console.log("O resultado da Soma é   " + soma)
+console.log("O resultado da Soma é  " + soma)
 break;
 
 case 2:
@@ -27,7 +27,7 @@ case 3:
 numero1 = parseFloat(prompt("Digite o primeiro número"));
 numero2 = parseFloat(prompt("Digite o segundo número"));
 multiplicacao = numero1 * numero2;
-console.log("O resultado da Multiplicação é  "+ multiplicacao);
+console.log("O resultado da Multiplicação é "+ multiplicacao);
 break;
 
 case 4:
